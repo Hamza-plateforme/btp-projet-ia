@@ -1,0 +1,267 @@
+[
+  {
+    "feedback": "travail fini\n",
+    "synthese": "Résumé automatique : travail fini\n...",
+    "emotions": "neutre",
+    "suggestion": "Améliorez la clarté."
+  },
+  {
+    "synthese": "Erreur d'analyse IA",
+    "emotion": "erreur",
+    "theme": "erreur",
+    "suggestion": "\n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+    "feedback": "le travail est fini dans les temps super content \n"
+  },
+  {
+    "synthese": "Erreur d'analyse IA",
+    "emotion": "erreur",
+    "theme": "erreur",
+    "suggestion": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "feedback": ""
+  },
+  {
+    "synthese": "Erreur d'analyse IA",
+    "emotion": "erreur",
+    "theme": "erreur",
+    "suggestion": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "feedback": ""
+  },
+  {
+    "synthese": "Erreur d'analyse IA",
+    "emotion": "erreur",
+    "theme": "erreur",
+    "suggestion": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "feedback": ""
+  },
+  {
+    "synthese": "Erreur d'analyse IA",
+    "emotion": "erreur",
+    "theme": "erreur",
+    "suggestion": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "feedback": ""
+  },
+  {
+    "synthese": "Erreur d'analyse IA",
+    "emotion": "erreur",
+    "theme": "erreur",
+    "suggestion": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "feedback": ""
+  },
+  {
+    "synthese": "Erreur d'analyse IA",
+    "emotion": "erreur",
+    "theme": "erreur",
+    "suggestion": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "feedback": ""
+  },
+  {
+    "synthese": "Erreur d'analyse IA",
+    "emotion": "erreur",
+    "theme": "erreur",
+    "suggestion": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "feedback": "le travail est terminer je suis content "
+  },
+  {
+    "feedback": "le travail est terminer je suis content ",
+    "synthese": "le travail est terminer je suis content ",
+    "emotion": "neutre",
+    "theme": "travail",
+    "suggestion": "À améliorer."
+  },
+  {
+    "feedback": "je ne suis pas satisfait de rendement",
+    "synthese": "je ne suis pas satisfait de rendement",
+    "emotion": "neutre",
+    "theme": "suis",
+    "suggestion": "À améliorer."
+  },
+  {
+    "feedback": "comment faire demain il pleut",
+    "synthese": "comment faire demain il pleut",
+    "emotion": "neutre",
+    "theme": "comment",
+    "suggestion": "À améliorer."
+  },
+  {
+    "feedback": "mon travail n'est pas terminer je ne suis pas content ",
+    "synthese": "mon travail n'est pas terminer je ne suis pas content ",
+    "emotion": "neutre",
+    "theme": "travail",
+    "suggestion": "À améliorer."
+  },
+  {
+    "feedback": "mon travail n'est pas terminer est ce bien",
+    "synthese": "mon travail n'est pas terminer est ce bien",
+    "emotion": "neutre",
+    "theme": "travail",
+    "suggestion": "À améliorer."
+  },
+  {
+    "feedback": "mon travail n'est pas terminer",
+    "synthese": "mon travail n'est pas terminer",
+    "emotion": "négatif",
+    "theme": "travail",
+    "suggestion": "À améliorer.",
+    "score": 0.5282915830612183
+  },
+  {
+    "feedback": "mon travail n'est pas terminer",
+    "synthese": "mon travail n'est pas terminer",
+    "emotion": "négatif",
+    "theme": "travail",
+    "suggestion": "À améliorer.",
+    "score": 0.5282915830612183
+  },
+  {
+    "feedback": "mon travail n'est pas terminer",
+    "synthese": "mon travail n'est pas terminer",
+    "emotion": "négatif",
+    "theme": "travail",
+    "suggestion": "À améliorer.",
+    "score": 0.5282915830612183
+  },
+  {
+    "feedback": "mon travail n'est pas terminer",
+    "synthese": "mon travail n'est pas terminer",
+    "emotion": "négatif",
+    "theme": "travail",
+    "suggestion": "À améliorer.",
+    "score": 0.5282915830612183
+  },
+  {
+    "feedback": "mon travail n'est pas terminer",
+    "synthese": "mon travail n'est pas terminer",
+    "emotion": "négatif",
+    "theme": "travail",
+    "suggestion": "À améliorer.",
+    "score": 0.5282915830612183
+  },
+  {
+    "feedback": "mon travail n'est pas terminer",
+    "synthese": "mon travail n'est pas terminer",
+    "emotion": "négatif",
+    "theme": "travail",
+    "suggestion": "À améliorer.",
+    "score": 0.5282915830612183
+  },
+  {
+    "feedback": "je suis malade \n",
+    "synthese": "je suis malade \n",
+    "emotion": "négatif",
+    "theme": "suis",
+    "suggestion": "À améliorer.",
+    "score": 0.5378130674362183
+  },
+  {
+    "feedback": "je nai pas terminer mon travail a cause de la fatigue",
+    "synthese": "je nai pas terminer mon travail a cause de la fatigue",
+    "emotion": "négatif",
+    "theme": "terminer",
+    "suggestion": "« Une vie sans séparation, une grande maîtrise de soi ») ;Une grande variété de plantes a été découverte. Le nom des plantes a été donné par le naturaliste suisse Johann Gottfried Wilhelm von Linné et l'ornithologue anglais Charles Speck en 1864. Ces plantes sont aussi connues sous le nom de genre Cetadobius, « jardin de l'air ». L'étage subalpin est parfois appelée « forêt de l'eau » et est une forêt de quatre à huit hectares. La montagne est relativement petite, elle a une superficie de 1 500 m2 et une largeur de 1 500 m2. Les espaces humides sont principalement humides, avec des lacs d'eau ou des lacustres, des forêts de conifères, des prairies de montagne, des prairies de montagne, des forêts de montagne de montagne, de prairies d'altitude, des prairies humides, des prairies de montagne d'altitude, des prairies de montagne, des prairies humides, des prairies de montagne, des prairies d'altitude, des prairies d'épaisse, des prairies humides, des prairies de montagne d'altitude, des prairies d'épaisse, des prairies d'épaisse, des",
+    "score": 0.4678974151611328
+  },
+  {
+    "feedback": "je nai pas terminer mon travail a cause de la fatigue",
+    "synthese": "je nai pas terminer mon travail a cause de la fatigue",
+    "emotion": "négatif",
+    "theme": "terminer",
+    "suggestion": "Love in the Campagna (2003)Le 1er novembre 1935, la première étape de la deuxième étape de la quatrième étape d'une attaque de l'équipe, à l'aide d'un hack de neige, s'engage. Le lendemain, c'est la troisième fois qu'une équipe de tête de formation remporte le Tour d'Italie. L'équipe de tête de formation est en tête de la course, à trois minutes du vainqueur. Lors de la cinquième étape, le parcours du Tour de France est difficile pour les coureurs pour les équipes qui souhaitent se concentrer sur la poursuite de l'équipe. La tactique des frères chute dans le col du Galibier et en particulier le col du Galibier. L'équipe remporte le classement général mais est incapable de s'attaquer sur le Tour de France. Elle termine cinquième de la course, à trois minutes du vainqueur, puis dixième du classement général. Lors de la sixième étape, les frères franchissent la ligne d'arrivée et prennent l'avantage de la neuvième place. Ils franchissent la ligne de départ au classement général, à plus d'un kilomètre de l'arrivée. Ils s'imposent ensuite dans le col du Petit-Quevilly, à plus de deux kilomètres de l'arrivée.",
+    "score": 0.4678974151611328
+  },
+  {
+    "feedback": "je nai pas terminer mon travail a cause de la fatigue",
+    "synthese": "je nai pas terminer mon travail a cause de la fatigue",
+    "emotion": "négatif",
+    "theme": "terminer",
+    "suggestion": "2 peintures (Les Trois poiss) de Jean-Baptiste Lecer, du musée d'Art, Paris, musée du Louvre, 1989.Un certain nombre d'études ont montré que la résistance de la population à la colonisation par les Britanniques, en particulier les populations rurales, a pu se faire au-delà de celui de la population active. Les principaux cause de cette résistance sont l'effondrement du système de santé des pays développés par les Britanniques. Le Congrès américain, qui avait adopté le programme de « Nations unies pour l'éducation et l'alimentation » (UNATE) à la suite de cette guerre, a adopté la convention sur l'éducation et l'alimentation en 1948. Ces trois organisations sont le plus souvent des États-Unis qu'un autre, et ont été, à l'époque, très largement représentés par les Britanniques. En 1948, le Congrès a adopté le programme de « Nations unies pour la santé et l'éducation en Palestine ». De son côté, les États-Unis ont accepté l'accord de l'ONU en 1949, au moins pour la raison de la durée de l'opération, et de la présence des États-Unis dans le conflit.D'après l'historien de l'art Jean-François André, «",
+    "score": 0.4678974151611328
+  },
+  {
+    "feedback": "je nai pas terminer mon travail a cause de la fatigue",
+    "synthese": "je nai pas terminer mon travail a cause de la fatigue",
+    "emotion": "négatif",
+    "theme": "terminer",
+    "suggestion": "2 peintures, 1 × 2,5 cm, collection Sonia Delaunay, Paris.Lors de la saison 2018-2019, l'Olympique lyonnais est classé à la dix-septième place mondiale en compagnie de l'Olympique lyonnais, deuxième meilleure équipe de la Ligue de football, qui évolue en première division. Le club est également classé à la dixième place mondiale et à la huitième place du classement des clubs de Ligue 2.Le territoire de l'abbaye est soumis à un régime essentiellement religieux et religieux. La règle particulière du bon déroulement de l'abbaye est que les moines ne peuvent pas entrer en conflit avec les autres (les biens et les biens de leur abbé) ni avec les biens du roi. Les religieux ne peuvent pas demeurer en contact avec les autres, qui sont parfois à l'abri des attaques des moines. Dans ce contexte, une grande partie des terres de l'abbaye, dont le superficie est de 6 500 m2, sont acquis par des moines à la fin du XIIe siècle. Les terres sont redistribuées à des moines, à des employés de l'abbaye. D'autres terres sont alors divisés en parcelles, comme le domaine du château de Montredon, qui comprend des terres comprise entre 12 000 et 18 000 m2. Les derniers religieux à s",
+    "score": 0.4678974151611328
+  },
+  {
+    "feedback": "comment travailler en equipe ",
+    "synthese": "comment travailler en equipe ",
+    "emotion": "positif",
+    "theme": "comment",
+    "suggestion": "« Une fois que le monde commence à seties, le monde se fond, comme si l'espace s'enflamme et il ne s'y avait pas. »Le 29 juillet, la flotte grecque est détruite et les navires grecs sont rapidement capturés par les troupes grecques qui atteignent l'île de Corinthe, où ils sont capturés par les troupes grecques. La flotte grecque rentre à Corinthe, la ville de Corinthe et l'île de Corinthe sont pris par les Grecs le 1er septembre, puis les troupes grecques mettent en déroute les navires grecs dont ils sont peu à peu armés. Les pertes sont lourdes pour la ville de Corinthe et font de la ville la plus importante de l'île.Les critiques ne sont pas toujours positives. En France, le journaliste Jean-Claude Farcet a écrit : « si vous ne vous le faites pas d'un grand nombre de victimes, on ne peut espérer rien de plus, si vous ne vous vous êtes pas de la main sur la situation ». Dans le même temps, le journaliste Henri Péguy en parle de « une série de victimes qui ont entièrement disparu » et de « un récit d'une grande part qui ne s'est pas passé. » Il ajoute que si les événements se passent « comme un feuilleton,",
+    "score": 0.41506585478782654
+  },
+  {
+    "feedback": "comment travailler en equipe ",
+    "synthese": "comment travailler en equipe ",
+    "emotion": "positif",
+    "theme": "comment",
+    "suggestion": "le héros se fait le plus souvent par le mal. Il est à l'origine d'une crise d'identité entre le héros et sa mère, qui l'empêche de se développer et d'être plus qu'un personnage de fiction. Ce sont tous les bons éléments, le personnage se faisant plus souvent par l'auto-pensance, le « bon » n'étant pas le plus souvent que « le mal » (a rose) ; pour lui, « le mal » est le « bon » et c'est donc le « bon » qui est le « bon » à l'exception du « mauvais » (a rose). Au contraire, « le mal » est un personnage bien construit, un personnage qui a pour mission de « vivre » (a rose) et qui « [est] le meilleur » pour le « bon » (a rose). Il existe de nombreux stéréotypes, notamment les stéréotypes sociaux. Bien que l'apparence du héros soit différente de celle de son prédécesseur, il est tout à fait semblable à Mickey Mouse ou Donald Duck, tout comme Mickey est un personnage qui n'est pas né de rien. Pour rendre compte de l'impression que le personnage est né de rien, les animateurs ont voulu en faire un personnage de né",
+    "score": 0.41506585478782654
+  },
+  {
+    "feedback": "le travail est terminer \n",
+    "synthese": "le travail est terminer \n",
+    "emotion": "neutre",
+    "theme": "travail",
+    "suggestion": "« Les deux hommes sont bien amis, je ne sais pas comment ils se sont comporté. J'ai pris beaucoup pour les hommes et pour le pays. Les gens n'ont pas le même goût et le pays a le même goût que la France. »Taux de la ville d'Aix-les-Bains, la commune qui se trouve à l'ouest de la commune d'Aix-les-Bains, est l'une des plus grandes communes de la région, avec un territoire de 6 572 km2. La commune n'est toutefois que la ville la plus peuplée de la région, avec un taux de population de 7 641 personnes en 1999, soit un peu plus que le centre-ville de Lyon. La commune a connu une importante hausse démographique au cours des Trente Glorieuses, et c'est le second plus grand centre-ville d'Afrique après la France. Dans les années 1960, la population de la commune est de 5 411 000 habitants, ce qui en fait le deuxième plus important du département de la Haute-Savoie derrière la France et la France. En 1989, la commune était la deuxième plus peuplée du département en termes de population après la France, avec 2 842 831 habitants, soit un peu plus que la France",
+    "score": 0.29933446645736694
+  },
+  {
+    "feedback": "je suis malade ",
+    "synthese": "je suis malade ",
+    "emotion": "négatif",
+    "theme": "suis",
+    "suggestion": "Soigne-toi bien et prends du repos. Consulte un professionnel de santé si nécessaire.",
+    "score": 0.5378130674362183
+  },
+  {
+    "feedback": "jai terminer mon travail\n",
+    "synthese": "jai terminer mon travail\n",
+    "emotion": "positif",
+    "theme": "terminer",
+    "suggestion": "Merci pour ton énergie positive, continue ainsi !",
+    "score": 0.38258081674575806
+  },
+  {
+    "feedback": "je suis malade \n",
+    "synthese": "je suis malade \n",
+    "emotion": "négatif",
+    "theme": "suis",
+    "suggestion": "Soigne-toi bien et prends du repos. Consulte un professionnel de santé si nécessaire.",
+    "score": 0.5378130674362183
+  },
+  {
+    "feedback": "je suis malade \n",
+    "synthese": "je suis malade \n",
+    "emotion": "négatif",
+    "theme": "suis",
+    "suggestion": "Soigne-toi bien et prends du repos. Consulte un professionnel de santé si nécessaire.",
+    "score": 0.5378130674362183
+  },
+  {
+    "feedback": "ok",
+    "synthese": "ok",
+    "emotion": "neutre",
+    "theme": "",
+    "suggestion": "Merci pour ton retour, chaque avis compte.",
+    "score": 0.49511438608169556
+  },
+  {
+    "feedback": "",
+    "synthese": "",
+    "emotion": "positif",
+    "theme": "",
+    "suggestion": "Merci pour ton énergie positive, continue ainsi !",
+    "score": 0.2846149206161499
+  },
+  {
+    "feedback": "comment fonctionne une  variable",
+    "synthese": "comment fonctionne une  variable",
+    "emotion": "positif",
+    "theme": "comment",
+    "suggestion": "Merci pour ton énergie positive, continue ainsi !",
+    "score": 0.26196134090423584
+  }
+]

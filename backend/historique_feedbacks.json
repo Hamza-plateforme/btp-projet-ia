@@ -263,5 +263,13 @@
     "theme": "comment",
     "suggestion": "Merci pour ton énergie positive, continue ainsi !",
     "score": 0.26196134090423584
+  },
+  {
+    "feedback": "je suis malade je lai pas pu finir mon projet\n",
+    "synthese": "je suis malade je lai pas pu finir mon projet\n",
+    "emotion": "négatif",
+    "theme": "suis",
+    "suggestion": "Soigne-toi bien et prends du repos. Consulte un professionnel de santé si nécessaire.",
+    "score": 0.5288853645324707
   }
 ]
